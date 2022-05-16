@@ -1,1 +1,1 @@
-Bonjour ici vous trouverez les documents sources a notre porjet.
+Bonjour ici vous trouverez les documents sources a notre projet.
